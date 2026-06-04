@@ -14,7 +14,7 @@
 <h2>EIA-530</h2>
 <p>Combines features of RS-232 + RS-449. Supports higher speed balanced transmission. Rare today</p>
 <h2>2. ISDN (Integrated Services Digital Network)</h2>
-<p>Digital telephone network standard. Carries voice + data</p>
+<p>Digital telephone network standard. Carries voice + data. Mostly obsolete (replaced by broadband).</p>
   
 <ul>
   <li>Types
