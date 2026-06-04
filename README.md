@@ -25,15 +25,15 @@
 <h2>EIA-530</h2>
 <l>Combines features of RS-232 + RS-449</l>
 <l>Supports higher speed balanced transmission</l>
-<l>Rare today</l>
+<li>Rare today</li>
 <h2>2. ISDN (Integrated Services Digital Network)</h2>
-<l>Digital telephone network standard</l>
-<l>Carries voice + data</l>
+<li>Digital telephone network standard</li>
+<li>Carries voice + data</li>
 <ul>
   <li>Types
     <ul>
-      <li>BRI (2 channels)</l>
-      <li>PRI (23/30 channels</l>
+      <li>BRI (2 channels)</li>
+      <li>PRI (23/30 channels</li>
     </ul>
   </li>
 </ul>
