@@ -24,7 +24,7 @@
   </li>
 </ul>
 <h2>3. Digital Carrier Lines (Leased Lines)</h2>
-<h2>T-carrier system (USA/Japan)</h2>
+<h3>T-carrier system (USA/Japan)</h2>
 <p>
   T1: 1.544 Mbps, 24 Voice channels, used in enterprise WAN
 </p>
