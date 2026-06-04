@@ -1,1 +1,1 @@
-# Telecom-standards-and-digital-transmission-interfaces
+# Telecom standards and digital transmission interfaces
