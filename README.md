@@ -10,13 +10,10 @@
 <h2>V.35</h2>
 <p>High-speed serial interface. Used for WAN routers <-> CSU/DSU. Supports synchronous communication. Common in legacy leased lines</p>
 <h2>X.21</h2>
-Digital signaling interface (European standard)
-Used for synchronous WAN connections
-More reliable than RS-232
+<p>Digital signaling interface (European standard). Used for synchronous WAN connections. More reliable than RS-232</p>
 <h2>EIA-530</h2>
-Combines features of RS-232 + RS-449
-Supports higher speed balanced transmission
-Rare today
+<p>Combines features of RS-232 + RS-449. Supports higher speed balanced transmission. Rare today
+</p>
 <h2>2. ISDN (Integrated Services Digital Network)</h2>
 Digital telephone network standard
 Carries voice + data
