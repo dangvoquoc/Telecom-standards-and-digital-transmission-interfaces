@@ -38,11 +38,13 @@
 </p>
 <h2>4. xDSL (Digital Subscriber Line)</h2>
 <p>Internet over copper telephone lines. Used for home broadband</p>
-<p>Types:
+<ul>
+<p>Types:</p>
 <li>ADSL (asymetric)</li>
 <li>SDSL</li>
 <li>VDSL (very high speed)</li>
-</p>
+
+</ul>
 <h2>5. SONET (Synchornous Optical Network)</h2>
 <p>Fiber-optic transmission standard (mainly USA). Very high-speed backbone network</p>
 <table>
