@@ -2,7 +2,7 @@
 <p>I'll talk a little bit about telecom standards and digital transmission interfaces used in network, serial communication, and carrier-grade WAN systems. </p>
 <h2>1. Serial / Interface Standards (Older WAN / Device Links)</h2>
 <h2>EIA/TIA-232 (RS-232)</h2>
-Very common serial communication standard
+<p>Very common serial communication standard</p>
 Used for PC <-> modem, console ports
 Short distance (~15 meters)
 Low speed
