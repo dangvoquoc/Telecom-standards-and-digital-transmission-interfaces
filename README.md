@@ -30,7 +30,10 @@
 <l>Digital telephone network standard</l>
 <l>Carries voice + data</l>
 <ul>
-  Types
-  <l>BRI (2 channels)</l>
-  <l>PRI (23/30 channels</l>
+  <li>Types
+    <ul>
+      <li>BRI (2 channels)</l>
+      <li>PRI (23/30 channels</l>
+    </ul>
+  </li>
 </ul>
