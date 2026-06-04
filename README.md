@@ -31,3 +31,26 @@
 <p>
   T3: 44.736 Mbps, 28 x T1 channels
 </p>
+<h3>E-carrier system (Europe/Asia)</h3>
+<p>
+  E1: 2.048 Mbps, 32 channels (30 data + 2 signaling)
+  E3: 34.368 Mbps
+</p>
+<h2>4. xDSL (Digital Subscriber Line)</h2>
+<p>Internet over copper telephone lines. Used for home broadband</p>
+<p>Types:</p>
+<li>ADSL (asymetric)</li>
+<li>SDSL</li>
+<li>VDSL (very high speed)</li>
+<h2>5. SONET (Synchornous Optical Network)</h2>
+<p>Fiber-optic transmission standard (mainly USA). Very high-speed backbone network</p>
+<table>
+  <tr>
+    <th>Level</th>
+    <th>Speed</th>
+  </tr>
+  <tr>
+    <td>OC-3</td>
+    <td>155 Mbps</td>
+  </tr>
+</table>
