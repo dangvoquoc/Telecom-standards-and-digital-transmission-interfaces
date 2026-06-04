@@ -3,7 +3,7 @@
 <h2>1. Serial / Interface Standards (Older WAN / Device Links)</h2>
 <h2>EIA/TIA-232 (RS-232)</h2>
 <p>Very common serial communication standard</p>
-Used for PC <-> modem, console ports
+<p>Used for PC <-> modem, console ports</p>
 Short distance (~15 meters)
 Low speed
 <h2>EIA/TIA-449</h2>
