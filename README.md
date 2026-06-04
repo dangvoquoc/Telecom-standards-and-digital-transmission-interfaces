@@ -12,11 +12,10 @@
 <h2>X.21</h2>
 <p>Digital signaling interface (European standard). Used for synchronous WAN connections. More reliable than RS-232</p>
 <h2>EIA-530</h2>
-<p>Combines features of RS-232 + RS-449. Supports higher speed balanced transmission. Rare today
-</p>
+<p>Combines features of RS-232 + RS-449. Supports higher speed balanced transmission. Rare today</p>
 <h2>2. ISDN (Integrated Services Digital Network)</h2>
-Digital telephone network standard
-Carries voice + data
+<p>Digital telephone network standard. Carries voice + data</p>
+  
 <ul>
   <li>Types
     <ul>
