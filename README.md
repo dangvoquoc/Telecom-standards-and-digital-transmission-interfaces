@@ -53,4 +53,16 @@
     <td>OC-3</td>
     <td>155 Mbps</td>
   </tr>
+  <tr>
+    <td>OC-12</td>
+    <td>622 Mbps</td>
+  </tr>
+  <tr>
+    <td>OC-48</td>
+    <td>2.5Gbps</td>
+  </tr>
+  <tr>
+    <td>OC-192</td>
+    <tr>10Gbps</tr>
+  </tr>
 </table>
