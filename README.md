@@ -3,11 +3,8 @@
 <h2>1. Serial / Interface Standards (Older WAN / Device Links)</h2>
 <h2>EIA/TIA-232 (RS-232)</h2>
 <p>Very common serial communication standard. Used for PC <-> modem, console ports. Short distance (~15 meters). Low speed </p>
-
 <h2>EIA/TIA-449</h2>
-Improved version of RS-232
-Higher speed + longer distance
-Not widely used (replaced by others)
+<p>Improved version of RS-232. Higher speed + longer distance. Not widely used (replaced by others).</p>
 <h2>V.24 (ITU-T V24)</h2>
 Equivalent to RS-232 electrical signaling
 Defines control signals (RTS, CTS, DTR...)
