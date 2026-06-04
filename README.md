@@ -14,8 +14,7 @@
 <h2>EIA-530</h2>
 <p>Combines features of RS-232 + RS-449. Supports higher speed balanced transmission. Rare today</p>
 <h2>2. ISDN (Integrated Services Digital Network)</h2>
-<p>Digital telephone network standard. Carries voice + data. Mostly obsolete (replaced by broadband).</p>
-  
+<p>Digital telephone network standard. Carries voice + data. Mostly obsolete (replaced by broadband).</p> 
 <ul>
   <li>Types
     <ul>
@@ -24,3 +23,11 @@
     </ul>
   </li>
 </ul>
+<h2>3. Digital Carrier Lines (Leased Lines)</h2>
+<h2>T-carrier system (USA/Japan)</h2>
+<p>
+  T1: 1.544 Mbps, 24 Voice channels, used in enterprise WAN
+</p>
+<p>
+  T3: 44.736 Mbps, 28 x T1 channels
+</p>
