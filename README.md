@@ -8,10 +8,7 @@
 <h2>V.24 (ITU-T V24)</h2>
 <p>Equivalent to RS-232 electrical signaling. Defines control signals (RTS, CTS, DTR...)</p>
 <h2>V.35</h2>
-High-speed serial interface
-Used for WAN routers <-> CSU/DSU
-Supports synchronous communication
-Common in legacy leased lines
+<p>High-speed serial interface. Used for WAN routers <-> CSU/DSU. Supports synchronous communication. Common in legacy leased lines</p>
 <h2>X.21</h2>
 Digital signaling interface (European standard)
 Used for synchronous WAN connections
