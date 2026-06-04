@@ -63,6 +63,6 @@
   </tr>
   <tr>
     <td>OC-192</td>
-    <tr>10Gbps</tr>
+    <td>10Gbps</td>
   </tr>
 </table>
