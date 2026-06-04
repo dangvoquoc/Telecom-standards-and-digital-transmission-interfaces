@@ -6,8 +6,7 @@
 <h2>EIA/TIA-449</h2>
 <p>Improved version of RS-232. Higher speed + longer distance. Not widely used (replaced by others).</p>
 <h2>V.24 (ITU-T V24)</h2>
-Equivalent to RS-232 electrical signaling
-Defines control signals (RTS, CTS, DTR...)
+<p>Equivalent to RS-232 electrical signaling. Defines control signals (RTS, CTS, DTR...)</p>
 <h2>V.35</h2>
 High-speed serial interface
 Used for WAN routers <-> CSU/DSU
